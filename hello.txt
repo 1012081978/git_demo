@@ -13,3 +13,4 @@ i1.hello word
 test github
 test origin
 test ssl key
+push ssl
