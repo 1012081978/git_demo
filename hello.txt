@@ -12,3 +12,4 @@ i1.hello word
 11.hello word  11111111111
 test github
 test origin
+test ssl key
